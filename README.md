@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
