@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -46,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
