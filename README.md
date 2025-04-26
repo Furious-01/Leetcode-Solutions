@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
