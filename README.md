@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
