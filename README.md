@@ -84,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+## Depth-First Search
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+## Binary Tree
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
