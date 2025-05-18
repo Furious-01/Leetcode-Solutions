@@ -87,13 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
