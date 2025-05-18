@@ -89,18 +89,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
