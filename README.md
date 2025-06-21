@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
