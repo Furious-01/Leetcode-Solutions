@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
