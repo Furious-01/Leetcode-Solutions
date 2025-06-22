@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
