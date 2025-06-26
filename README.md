@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -149,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
