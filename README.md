@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -159,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
