@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
@@ -170,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
