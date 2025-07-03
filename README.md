@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
