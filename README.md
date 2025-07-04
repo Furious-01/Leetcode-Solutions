@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Furious-01/Leetcode-Solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Linked List
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 <!---LeetCode Topics End-->
