@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
