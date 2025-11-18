@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0753-open-the-lock) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Furious-01/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Furious-01/Leetcode-Solutions/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Divide and Conquer
 |  |
